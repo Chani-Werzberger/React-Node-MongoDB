@@ -13,13 +13,16 @@ cd React-Node-MongoDB
 #### 2. Create environment variable files:
 
 Inside the `server/` folder, create a file called `.env` with the following content:
+### Google Sign-In Setup
+To enable Google Sign-In, you need to create a project in the Google Cloud Console and obtain a Client ID and Client Secret.
+
 
 ```
 PORT=8080
 DB_URL="mongodb+srv://sari:gkJy2HMGETKEttxE@seminar.sjbkq.mongodb.net/FixItNow-db"
 JWT_SECRET="vyENJMKgbuf56tey8145%^&#@ubIWVEVGN652r54%#&^om"
-GOOGLE_CLIENT_ID="566444972150-gqusn4qv6u1ucm2r9qqnft15a0tuo2s6.apps.googleusercontent.com"
-GOOGLE_CLIENT_SECRET="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"
+GOOGLE_CLIENT_ID=your-google-client-secret
+GOOGLE_CLIENT_SECRET=your-google-client-secret
 ```
 
 Inside the `client/` folder, create a file called `.env` with the following content:
