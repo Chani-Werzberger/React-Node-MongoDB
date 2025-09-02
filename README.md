@@ -69,5 +69,5 @@ This project is open source under the MIT license.
 
 <img width="1920" height="887" alt="image" src="https://github.com/user-attachments/assets/d4c05e12-4ba3-4065-ae49-0873e2b50091" />
 
-<img width="1919" height="885" alt="image" src="https://github.com/user-attachments/assets/a02cbfdd-09d8-4182-b530-d26f395560c2" />
+<img width="1920" height="888" alt="image" src="https://github.com/user-attachments/assets/cf7fe52a-c797-4dde-a42e-8c52cae29487" />
 
