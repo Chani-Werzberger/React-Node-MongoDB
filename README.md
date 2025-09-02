@@ -64,3 +64,10 @@ Now the backend will run on port 8080, and the React frontend will run on port 5
 ## License
 
 This project is open source under the MIT license.
+
+<img width="1920" height="880" alt="image" src="https://github.com/user-attachments/assets/e53bbef0-ee52-44ac-82b6-ebf234d20a28" />
+
+<img width="1920" height="887" alt="image" src="https://github.com/user-attachments/assets/d4c05e12-4ba3-4065-ae49-0873e2b50091" />
+
+<img width="1919" height="885" alt="image" src="https://github.com/user-attachments/assets/a02cbfdd-09d8-4182-b530-d26f395560c2" />
+
